@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/PJMantoss/boilerplate-npm/issues"
   },
-  "homepage": "https://github.com/PJMantoss/boilerplate-npm#readme"
+  "homepage": "https://github.com/PJMantoss/boilerplate-npm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
