@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "PJ Mantoss",
+  "author": "PJMantoss",
   "version": "1.0.0",
   "description": "npm-tutorial",
   "main": "server.js",
