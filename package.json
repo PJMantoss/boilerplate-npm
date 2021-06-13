@@ -1,0 +1,23 @@
+{
+  "name": "boilerplate-npm",
+  "version": "1.0.0",
+  "description": "npm-tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJMantoss/boilerplate-npm.git"
+  },
+  "keywords": [
+    "npm-boilerplate"
+  ],
+  "author": "PJ Mantoss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PJMantoss/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/PJMantoss/boilerplate-npm#readme"
+}
