@@ -14,3 +14,10 @@ body {
 .footer {
 	margin-top: 60px;
 }
+
+ol {
+	list-style-position: inside;
+}
+ul {
+	list-style-type: none;
+}
