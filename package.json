@@ -1,3 +1,26 @@
 {
-  "author": "PJMantoss"
+  "name": "fcc-learn-npm-package-json",
+  "author": "PJ Mantoss",
+  "version": "1.0.0",
+  "description": "npm-tutorial",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJMantoss/boilerplate-npm.git"
+  },
+  "keywords": [
+    "npm-boilerplate"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PJMantoss/boilerplate-npm/issues"
+  },
+  "homepage": "https://github.com/PJMantoss/boilerplate-npm#readme"
 }
