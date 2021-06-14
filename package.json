@@ -16,7 +16,10 @@
     "url": "git+https://github.com/PJMantoss/boilerplate-npm.git"
   },
   "keywords": [
-    "npm-boilerplate"
+    "npm",
+    "freecodecamp",
+    "nodejs",
+    "microservices"
   ],
   "license": "MIT",
   "bugs": {
